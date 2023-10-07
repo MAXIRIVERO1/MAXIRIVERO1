@@ -1,6 +1,7 @@
 # MAXIMILIANO
 Aqui encontraras toda la informacion relacionada a mi
 
+#QUIEN SOY?
 
 Maxi, un activista de los derechos humanos, he trabajado en el Ministerio de Justicia y Derechos Humanos(valga la redundancia), en el area de diversidad sexual y como guia del Sitio de Memoria ESMA, hoy en dia un entusiasta de la programación, nacido en Argentina y con una vida marcada por experiencias en dos ciudades icónicas: Buenos Aires y Madrid. Durante cuatro años, viví en cada una de estas ciudades, absorbiendo sus culturas y enriqueciendo mi perspectiva de la vida.
 
