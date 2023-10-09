@@ -17,6 +17,10 @@ Me quiero desempeñar en resolución de problemas relacionados al código en BAC
 
 Me veo a mi mismo como un proyecto en constante evolución. Cada día es una oportunidad para superarme a mi mismo y crecer como programador y como individuo. La programación no solo es mi profesión, sino también mi viaje personal de autodescubrimiento y superación continua.
 
+# IDIOMAS
+Ingles b1-intermediate
+https://www.efset.org/cert/dTkVmL
+
 # DONDE CONTACTARME
 
 📫 Puedes contactarme:
