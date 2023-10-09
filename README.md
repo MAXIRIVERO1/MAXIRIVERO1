@@ -24,6 +24,9 @@ https://www.efset.org/cert/dTkVmL
 # DONDE CONTACTARME
 
 📫 Puedes contactarme:
+
 e-mail: maximilianoa.castillorivero@gmail.com
+
 linkedin: www.linkedin.com/in/maximiliano-developer
+
 telefono: +543876312803
